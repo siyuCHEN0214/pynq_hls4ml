@@ -1,4 +1,4 @@
-name: pynq
+name: pynq_test
 channels:
   - defaults
 dependencies:
