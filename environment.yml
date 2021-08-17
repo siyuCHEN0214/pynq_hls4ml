@@ -12,4 +12,4 @@ dependencies:
     - pynq==2.5.2
     - jupyter
     - git+https://github.com/google/qkeras.git#egg=qkeras
-    - git+https://github.com/jmduarte/hls4ml.git@pynq#egg=hls4ml[profiling]
+    - git+https://github.com/siyuCHEN0214/hls4ml.git@pynq#egg=hls4ml[profiling]
